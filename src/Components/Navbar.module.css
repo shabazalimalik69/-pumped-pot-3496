@@ -3,8 +3,36 @@
    
     /* border: 1px solid; */
     margin: auto;
-    height: 600px;
+    height: 700px;
     margin-top: 100px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     padding: 40px;
+}
+
+.signup1{
+    width: 30%;
+   
+    /* border: 1px solid; */
+    margin: auto;
+    height: 500px;
+    margin-top: 100px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 40px;
+}
+
+.login{
+    width: 30%;
+   
+    /* border: 1px solid; */
+    margin: auto;
+    height: 700px;
+    margin-top: 100px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 40px;
+}
+.forgotEmail{
+    width: 40%;
+    height: 400px;
+    margin: auto;
+    margin-top: 100px;
 }
