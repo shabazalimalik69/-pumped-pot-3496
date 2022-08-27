@@ -1,10 +1,10 @@
 import { Box, HStack, Menu, MenuButton,Button, MenuItem, MenuList, SimpleGrid, Text, Divider } from "@chakra-ui/react"
 import { ChevronDownIcon,ArrowForwardIcon } from '@chakra-ui/icons'
 import { Link } from "react-router-dom"
-
+import styles from "./Navbar.module.css"
 export const Navbar=()=>{
     return(
-        <Box style={{display:"flex",marginLeft:"80px",marginBlockStart:"30px"}} >
+        <Box  className={styles.navbar} style={{display:"flex",marginLeft:"80px",marginBlockStart:"30px"}} >
         <SimpleGrid columns={[1,2,2,3]} spacing={10}>
             <Link to="/" >
                 <img src="https://prod.smassets.net/assets/website/2.182.0/images/logo-surveymonkey.svg" alt="" />

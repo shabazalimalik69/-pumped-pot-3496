@@ -5,6 +5,7 @@ import styles from "../Components/Navbar.module.css"
 export const Home=()=>{
     return(
         <>
+         <Box className={styles.home}>
        <Box className={styles.homeBox1} >
         <Text>A global leader in survey software. 20 million questions answered daily.</Text>
        <Link to="/signup"> <Button backgroundColor="#00BF6F" className={styles.homeBtn} >Get started</Button></Link>
@@ -272,6 +273,7 @@ export const Home=()=>{
                     <Text textAlign="start">the pace of modern business.</Text>
                     <Text textAlign="start" marginBottom="40px" marginTop="40px">Copyright © 1999-2022 Momentive</Text>
                 </Box>
+          </Box>
         </>
     )
 }
