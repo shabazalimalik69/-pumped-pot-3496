@@ -5,9 +5,10 @@
 * Chakra UI
 #### In this clone we have included most of the functionalities of the original website. The functionalities that we have implemented in this projects are:
 * Navbar
-       * Navbar consists of logo of website, Product button, Solutions button, Resources button, Plan & Pricing button.
-       * It also consists of Login and SignUp button.
-      ![Screenshot (1413)](https://user-images.githubusercontent.com/103936619/191679186-d6c7aefc-db8d-4287-86b7-35de7c2e1eb9.png)
+     * Navbar consists of logo of website, Product button, Solutions button, Resources button, Plan & Pricing button.
+     * It also consists of Login and SignUp button.
+       
+     ![Screenshot (1413)](https://user-images.githubusercontent.com/103936619/191679186-d6c7aefc-db8d-4287-86b7-35de7c2e1eb9.png)
       
 * Home Page
      * Home Page has all the information of the website.
