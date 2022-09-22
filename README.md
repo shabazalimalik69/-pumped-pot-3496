@@ -7,9 +7,8 @@
 * Navbar
        * Navbar consists of logo of website, Product button, Solutions button, Resources button, Plan & Pricing button.
        * It also consists of Login and SignUp button.
-       
-       ![Screenshot (1413)](https://user-images.githubusercontent.com/103936619/191676641-05c7977f-895f-402b-b971-1238cce218dc.png)
-
+      ![Screenshot (1413)](https://user-images.githubusercontent.com/103936619/191679186-d6c7aefc-db8d-4287-86b7-35de7c2e1eb9.png)
+      
 * Home Page
      * Home Page has all the information of the website.
      * It has the navbar, from where we can go to the Login Page, Signup Page , Products button etc.
